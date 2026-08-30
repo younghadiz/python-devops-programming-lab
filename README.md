@@ -1,4 +1,4 @@
-# Python Programming & Automation Lab
+# Python Programming
 
 A practical Python engineering project covering core programming constructs, modular design, object-oriented programming, spreadsheet automation, date processing, input validation, and REST API integration.
 
